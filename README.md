@@ -37,8 +37,7 @@ Run the program with:
 
 ## Contributing
 
-I guess i'll leave this one blank for now lol, I'm just practing witting README
-for the first time.
+N/A
 
 ## License
 
